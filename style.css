@@ -288,5 +288,13 @@ footer h1{
         padding: 8px 10px;
         margin: 3px;
     }
+
+    footer i {
+        font-size: 13px;
+    }
+
+    footer a {
+        font-size: 13px;
+    }
 }
 
