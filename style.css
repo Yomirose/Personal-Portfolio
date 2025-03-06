@@ -151,6 +151,7 @@ main {
     margin-left: 30px;
 }
 
+
 h2 {
     font-size: 2em;
     border-bottom: 2px solid #333;
@@ -218,6 +219,12 @@ footer h1{
         height: 47vh;
         width: 70%;
         margin-right: auto;
+    }
+
+    .project-section{
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
     }
 
     h2{
@@ -297,4 +304,16 @@ footer h1{
         font-size: 13px;
     }
 }
+
+.project-section{
+    display: flex;
+    justify-content: space-between;
+    gap: 3px;
+}
+
+.project-section p{
+    font-size: 16px;
+    overflow: hidden;
+}
+
 
