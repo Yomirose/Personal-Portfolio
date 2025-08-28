@@ -15,7 +15,6 @@ body {
     background-position: center;
     display: flex;
     justify-content: space-around;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
     gap: 10px;
     position: fixed;
     top: 0;
@@ -210,7 +209,7 @@ footer h1{
     }
 
     h1 {
-        font-size: 2em;
+        font-size: 2rem;
     }
 
     .pic{
